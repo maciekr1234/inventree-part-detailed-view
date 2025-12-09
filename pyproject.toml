@@ -12,7 +12,7 @@ name = "inventree-part-detailed-view"
 description = "Extend parts view"
 dynamic = ["version"]
 authors = [
-    { name = "maciek012",
+    { name = "maciek012" }
 ]
 readme = "README.md"
 license = "MIT"
